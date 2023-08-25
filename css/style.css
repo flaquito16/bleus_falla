@@ -90,7 +90,7 @@ background: #2e2550;
 .div4{
   display: flex;
  width: 50vw;
-  background: url(/image/hojasFondo.jpg);
+  background: url(image/hojasFondo.jpg);
   background-size: cover;
 }
 
